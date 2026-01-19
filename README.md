@@ -1,2 +1,0 @@
-# expenses
-tracker expenses
